@@ -1,0 +1,9 @@
+c:\users\mhr\documents\visual studio 2013\Projects\Alarm App\Alarm App\bin\Debug\Alarm App.exe.config
+c:\users\mhr\documents\visual studio 2013\Projects\Alarm App\Alarm App\bin\Debug\Alarm App.exe
+c:\users\mhr\documents\visual studio 2013\Projects\Alarm App\Alarm App\bin\Debug\Alarm App.pdb
+c:\users\mhr\documents\visual studio 2013\Projects\Alarm App\Alarm App\obj\Debug\Alarm_App.AlarmForm.resources
+c:\users\mhr\documents\visual studio 2013\Projects\Alarm App\Alarm App\obj\Debug\Alarm_App.Properties.Resources.resources
+c:\users\mhr\documents\visual studio 2013\Projects\Alarm App\Alarm App\obj\Debug\Alarm App.csproj.GenerateResource.Cache
+c:\users\mhr\documents\visual studio 2013\Projects\Alarm App\Alarm App\obj\Debug\Alarm App.exe
+c:\users\mhr\documents\visual studio 2013\Projects\Alarm App\Alarm App\obj\Debug\Alarm App.pdb
+c:\users\mhr\documents\visual studio 2013\Projects\Alarm App\Alarm App\obj\Debug\Alarm_App.GetMessageForm.resources
